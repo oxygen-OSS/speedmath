@@ -216,12 +216,8 @@ local function answer_raw(p, i, n)
     else
       buf = buf .. ch
       draw()
-      if exp_str and tonumber(buf) then
-        if buf == exp_str then
-          return "done"
-        elseif #buf >= #exp_str then
-          wrong()
-        end
+      if exp_str and buf == exp_str then
+        return "done"
       end
     end
   end
