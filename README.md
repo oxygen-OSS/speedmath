@@ -4,7 +4,7 @@ Speedmath is a simple tool for generating (relatively simple, mostly) math quest
 
 > [!NOTE]
 This tool is a proof of concept, and has been developed with the assistance of AI/LLM tools.
-Licensed under the GNU General Public version 3 (GPLv3).
+Licensed under the [Oxygen Public License 1.1.](https://github.com/oxygen-OSS/license-oxygenoss/blob/main/OPL-1.1)
 Documentation to be written.
 
 > [!WARNING]
