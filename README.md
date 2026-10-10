@@ -1,6 +1,7 @@
 # speedmath
+<img width="378" height="253" alt="image" src="https://github.com/user-attachments/assets/837ee529-7da2-4df7-9b06-2bf85f43f0d5" />
 
-Speedmath is a simple tool for generating (relatively simple, mostly) math questions, written in Lua.
+Speedmath is a Lua utility made to generate, solve mathematical equations.
 
 > [!NOTE]
 This tool is a proof of concept, and has been developed with the assistance of AI/LLM tools.
